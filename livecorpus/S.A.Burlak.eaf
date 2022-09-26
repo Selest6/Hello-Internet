@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T23:05:04+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/ov156/Desktop/S. A. Burlak.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./S. A. Burlak.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:ea64b219-bcc0-42ff-9a38-fd071ddd63c2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="350"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="6990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="9320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="9640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="20130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="20160"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="23120"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="23370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="25640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="25870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="27900"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="28190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="45190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="45440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="53720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="59670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="60020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="63910"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="Selest6" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@sab1969f" TIER_ID="text@sab1969f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>так //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>а / да / вот еще / одна прекрасная находка это вот как раз дманисец / а вот это его бабушка //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>э / значит / череп / ну иногда говорят что это был старичок / но Мария-Антуанетта де Люмле которая там э вела раскопки вот она говорит что это женский все-таки череп //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>э / поскольку она там копалась я считаю что ей виднее //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>э / но мужчины говорят что это старичок //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>а / но я верю Марии-Антуанетте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ээ / соответственно аэ / вот / у нее / никаких зубов нет как вы можете заметить но / все лунки заросли костным веществом это значит что после того как у нее зубы выпали она жевать-то не могла а жила еще долго это значит что кто-то ей жевал пищу и ну скорее всего кормление рот в рот э //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>э как и / сейчас э иногда у некоторых народов практикуется / считается что / жест поцелуй / восходит к этому / э способу кормления //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>вот / а но в любом случае / вот / как-то ее кормили хотя она сама даже жевать не могла //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>а / это вот свидетельство альтруистического поведения //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Selest6" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@sab1969f"
+        PARTICIPANT="@sab1969f" TIER_ID="transl@sab1969f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>So.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Uh, yes, here is another interesting finding. This is a man from Dmanisi, and this is his grandmother.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>So.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Uh, so, a skull. So sometimes they say that it was an old man, but Marie-Antoinette de Lumley, who, uh, excavated that place, she says that this is a female skull after all.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Uh, since she excavated that place I believe that she knows best.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Uh, but the men say that this is an old man.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Uh, but I believe Marie-Antoinette.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Uh, consequently, uh, she does not have any teeth, as you can see, but all the holes have overgrown with the bone substance. That means that after her teeth had fallen out she couldn not chew food, but she lived a long live nevertheless. That means that someone chewed food for her and most likely it was mouth-to-mouth feeding, uh.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Uh, just like it is currently, uh, used by some communities sometimes. It is believed that a kiss gesture goes back to this, uh, way of feeding.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>So, uh, but, anyway, so, she was fed somehow, though she could not even chew on her own.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Uh, this is evidence of altruistic behavior.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
